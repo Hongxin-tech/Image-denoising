@@ -47,3 +47,11 @@ Please ensure that the following dependencies are installed before running the c
 To install the required dependencies, you can run:
 ```bash
 pip install -r requirements.txt
+
+
+## References
+
+This project builds upon the work by Gregor and LeCun:
+
+Gregor, K., & LeCun, Y. (2010, June). **Learning fast approximations of sparse coding**. In *Proceedings of the 27th International Conference on Machine Learning* (pp. 399-406).
+
